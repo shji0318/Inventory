@@ -8,8 +8,7 @@ public class Slot : MonoBehaviour,IPointerUpHandler,IDragHandler, IBeginDragHand
 {
     public int slotnum;
     public InvenItem invenItem;
-    public Image itemIcon;
-    public Vector2 itemPosition;
+    public Image itemIcon;   
 
 
     private void Awake()
