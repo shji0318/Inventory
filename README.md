@@ -1,9 +1,6 @@
 ## Inventory
 
 
-## 업적 시스템
-
-
 <p align = "center"><img src="https://jidaeportfolio.s3.ap-northeast-2.amazonaws.com/%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC.gif">
 </p>
 
